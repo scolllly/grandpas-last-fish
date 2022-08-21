@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/anchoveta.png-04b5f2b91b5480029c8e8324b4f9651c.stex"
+path="res://.import/sequencer_star.svg-2385cbba0c38b4d4ec43e0996f8a3493.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://anchoveta.png"
-dest_files=[ "res://.import/anchoveta.png-04b5f2b91b5480029c8e8324b4f9651c.stex" ]
+source_file="res://addons/beehave/icons/sequencer_star.svg"
+dest_files=[ "res://.import/sequencer_star.svg-2385cbba0c38b4d4ec43e0996f8a3493.stex" ]
 
 [params]
 

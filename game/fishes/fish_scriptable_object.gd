@@ -1,6 +1,6 @@
 extends Resource
 
-class_name FishSO
+class_name Fish
 
 export (String) var name
 export (String) var description
